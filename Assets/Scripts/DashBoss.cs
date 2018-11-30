@@ -66,10 +66,7 @@ public class DashBoss : MonoBehaviour {
 
     // Update is called once per frame
     void Update() {
-        //bt.Tick();
-        if (Input.GetKeyDown(KeyCode.T)) {
-        //    bt.Tick();
-        }
+
     }
 
     //called from player side
